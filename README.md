@@ -1,0 +1,2 @@
+# instaladores
+ElementaryOS initial setup
